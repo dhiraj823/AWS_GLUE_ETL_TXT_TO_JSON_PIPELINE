@@ -1,5 +1,5 @@
 # AWS_GLUE_ETL_TXT_TO_JSON_PIPELINE
-# i attached all screenshots of  my project workflow and txt file and the updated file named run... typ .. for understanding now i am going to describe below the all overview.
+# i attached all screenshots of  my project workflow and txt file and the updated file named run... typ .. for understanding.
 
 AWS Glue ETL Pipeline: TXT to JSON Conversion
 
