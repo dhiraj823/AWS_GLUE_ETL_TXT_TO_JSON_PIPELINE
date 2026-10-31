@@ -54,11 +54,8 @@ The final JSON output is stored in the destination Amazon S3 bucket.
 📂 Repository Structure
 
 aws-glue-etl-txt-to-json-pipeline/
-│
-├── data/
-├── scripts/
-├── architecture/
 ├── screenshots/
+|---data/
 └── README.md
 
 📸 Project Screenshots
@@ -74,17 +71,8 @@ Screenshots of the AWS implementation, including S3 buckets, Glue Crawler, Data 
 - Data format conversion (TXT to JSON).
 - Working with cloud-based data processing.
 
-🚀 Future Improvements
-
-- Automate pipeline execution using AWS Glue Triggers.
-- Add error handling and logging.
-- Implement data quality checks.
-- Explore workflow orchestration using AWS Glue Workflows.
-
 👨‍💻 Author
 
 Dhiraj Kumar
-
-B.Tech CSE | IoT Specialization
 
 Interested in Data Engineering, AWS Cloud, Python, SQL, and ETL Pipelines.
